@@ -1,4 +1,4 @@
-# This Project Contains the React Toolkit , Thunk and Builder Tips
+# This Project Contains the React Toolkit , Thunk and Builder Code
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
